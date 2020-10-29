@@ -44,7 +44,7 @@ def jalan(z):
 		sys.stdout.write(e)
 		sys.stdout.flush()
 		time.sleep(00000.1)
-
+aBmb
 
 ##### LOGO #####
 logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr cL๏ЙIЙG
@@ -76,8 +76,8 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
           ♥️♥️♥️ ßєş┼ ๏F LЦcK  ♥️♥️♥️
       ♥️♥️ rąM乙ąЙ MЦßąrąK ┼๏ єVєrY ß๏đY  ♥️♥️
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;Tusif
-\033[1;96mInstagram \033[1;93m: \033[1: Tusif
+\033[1;96mAuthor  \033[1;93m: \033[1;92m Tusif
+\033[1;96mInstagram \033[1;93m: \033[1: itx_muskam_yr
 \033[1;96mFacebook  \033[1;93m: \033[1: Tusif
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/tusif1049/TUSIF
 \033[1;91m======================================="""
@@ -142,15 +142,15 @@ print  """\033[1;91m
 ███████████████████████████████
 
                    WhatsApp : 03124788959
-\033[1;96mAuthor  \033[1;93m: \033[1;Tusif
-\033[1;96mInstagram \033[1;93m: \033[1;Tusif
-\033[1;96mFacebook  \033[1;93m: \033[1;Tusif
+\033[1;96mAuthor  \033[1;93m: \033[1;92mTusif
+\033[1;96mInstagram \033[1;93m: \033[1;92mitx_muskan_yr
+\033[1;96mFacebook  \033[1;93m: \033[1;92m Tusif
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/tusif1049 /TUSIF 
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername =tusif
-CorrectPassword =tusif
+CorrectUsername ="tusif"
+CorrectPassword ="tusif"
 
 loop = 'true'
 while (loop == 'true'):
